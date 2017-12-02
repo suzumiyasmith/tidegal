@@ -1,0 +1,15 @@
+[submodule "tidegal-transport"]
+	path = tidegal-transport
+	url = https://github.com/suzumiyasmith/tidegal-transport
+[submodule "tidegal-client"]
+	path = tidegal-client
+	url = https://github.com/suzumiyasmith/tidegal-client
+[submodule "tidegal-server"]
+	path = tidegal-server
+	url = https://github.com/suzumiyasmith/tidegal-server
+[submodule "light"]
+	path = light
+	url = https://github.com/suzumiyasmith/light
+[submodule "gjk2d"]
+	path = gjk2d
+	url = https://github.com/suzumiyasmith/gjk2d
