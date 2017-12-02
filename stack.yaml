@@ -1,0 +1,11 @@
+flags: {}
+extra-package-dbs: []
+packages:
+- tidegal-server
+- tidegal-client
+- tidegal-transport
+- gjk2d
+- light
+extra-deps:
+- apecs-0.2.4.6
+resolver: lts-9.14
